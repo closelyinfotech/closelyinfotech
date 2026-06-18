@@ -44,6 +44,7 @@ Strategic guidance on architecture, modernization, cloud adoption, and digital t
 * ASP.NET Core
 * C#
 * REST APIs
+* Node js
 
 ### Frontend
 
@@ -64,6 +65,8 @@ Strategic guidance on architecture, modernization, cloud adoption, and digital t
 * SQL Server
 * PostgreSQL
 * MongoDB
+* MySQL
+* PL/SQL
 
 ### Messaging & Integration
 
